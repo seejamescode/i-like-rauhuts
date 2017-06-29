@@ -31,6 +31,6 @@ Yeah.
 
 Absolutely.
 
-**Should you use this as your own wedding website to gift to a lift a loved one?**
+**Should you use this as your own wedding website to gift to a loved one?**
 
 That is kind of weird, but okay.
