@@ -1,0 +1,32 @@
+@keyframes light {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: .75;
+  }
+  50% {
+    opacity: .75;
+  }
+  55% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes speaker {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

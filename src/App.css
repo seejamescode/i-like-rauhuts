@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+.scrollDown {
+  animation: scrollFlash 3s ease-in-out infinite 5s;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 2rem;
+  width: 100vw;
+  z-index: 2;
+}
+
+@keyframes scrollFlash {
+  0% { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}

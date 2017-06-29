@@ -1,0 +1,16 @@
+{
+  "lang": "en-US",
+  "background_color": "#d1f0f7",
+  "theme_color": "#faad96",
+  "name": "Rauhut Wedding",
+  "short_name": "ILikeRauhuts",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

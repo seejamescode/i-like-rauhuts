@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="381px" height="592px" viewBox="0 0 381 592" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>tower</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tower">
+            <rect id="Rectangle" fill="#DEEDF7" x="130.597722" y="126.361735" width="118.634571" height="286.311493"></rect>
+            <rect id="Rectangle" fill="#DEEDF7" x="135.582367" y="107.002595" width="108.66528" height="19.3591401"></rect>
+            <rect id="Rectangle" fill="#DEEDF7" x="141.563942" y="87.6434548" width="97.6990588" height="19.3591401"></rect>
+            <rect id="Rectangle" fill="#DEEDF7" x="150.536305" y="0.0178732375" width="79.7543337" height="10.1890211"></rect>
+            <rect id="Rectangle" fill="#DEEDF7" x="154.524022" y="10.2068944" width="70.7819712" height="77.4365605"></rect>
+            <rect id="Rectangle-4" fill="#C2DBF4" x="26.9170876" y="412.673228" width="325.995839" height="50.9451056"></rect>
+            <rect id="Rectangle-4" fill="#95C4F3" x="59.8157503" y="402.484207" width="260.198514" height="10.1890211"></rect>
+            <rect id="Rectangle-4" fill="#C2DBF4" x="164.493313" y="10.2068944" width="7.97543337" height="77.4365605"></rect>
+            <rect id="Rectangle-4" fill="#FECEA9" x="208.358197" y="10.2068944" width="7.97543337" height="77.4365605"></rect>
+            <rect id="Rectangle-4" fill="#C2DBF4" x="208.358197" y="10.2068944" width="7.97543337" height="77.4365605"></rect>
+            <rect id="Rectangle-4" fill="#C2DBF4" x="186.425755" y="10.2068944" width="7.97543337" height="77.4365605"></rect>
+            <rect id="Rectangle-2" fill="#95C4F3" x="0" y="463.618334" width="380.105141" height="127.993735"></rect>
+            <ellipse id="Oval-3" fill="#95C4F3" cx="190.413472" cy="107.002595" rx="12.9600792" ry="13.2457274"></ellipse>
+            <polygon id="Triangle-2" fill="#95C4F3" points="59.8157503 402.484207 59.8157503 412.673228 26.9170876 412.673228"></polygon>
+            <polyline id="Triangle-2" fill="#95C4F3" points="320.014264 402.484207 320.014264 412.673228 352.912927 412.673228"></polyline>
+            <rect id="Rectangle" fill="#DEEDF7" x="168.48103" y="530.865873" width="43.5894589" height="61.1341267"></rect>
+            <ellipse id="Oval" fill="#DEEDF7" cx="190.186567" cy="530.865873" rx="21.7055372" ry="20.3780422"></ellipse>
+            <rect id="Rectangle" fill="#DEEDF7" x="235.275285" y="530.865873" width="43.5894589" height="61.1341267"></rect>
+            <ellipse id="Oval" fill="#DEEDF7" cx="256.980822" cy="530.865873" rx="21.7055372" ry="20.3780422"></ellipse>
+            <rect id="Rectangle" fill="#DEEDF7" x="101.686776" y="530.865873" width="43.5894589" height="61.1341267"></rect>
+            <ellipse id="Oval" fill="#DEEDF7" cx="123.392313" cy="530.865873" rx="21.7055372" ry="20.3780422"></ellipse>
+            <rect id="Rectangle" fill="#DEEDF7" x="34.892521" y="530.865873" width="43.5894589" height="61.1341267"></rect>
+            <ellipse id="Oval" fill="#DEEDF7" cx="56.5980582" cy="530.865873" rx="21.7055372" ry="20.3780422"></ellipse>
+            <rect id="Rectangle" fill="#DEEDF7" x="302.069539" y="530.865873" width="43.5894589" height="61.1341267"></rect>
+            <ellipse id="Oval" fill="#DEEDF7" cx="323.775076" cy="530.865873" rx="21.7055372" ry="20.3780422"></ellipse>
+        </g>
+    </g>
+</svg>

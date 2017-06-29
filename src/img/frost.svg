@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="779px" viewBox="0 0 265 779" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>frost</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frost">
+            <rect id="Rectangle-2" fill="#95C4F3" x="0" y="651.673102" width="264.771632" height="126.820864"></rect>
+            <rect id="Rectangle-2" fill="#C2DBF4" x="13.1992337" y="334.859717" width="237.24186" height="317.413416"></rect>
+            <rect id="Rectangle-4" fill="#FFDBD7" x="25.3831418" y="132.339768" width="214.570283" height="202.281094"></rect>
+            <rect id="Rectangle-4" fill="#C2DBF4" x="25.3831418" y="132.339768" width="214.570283" height="211.603604"></rect>
+            <rect id="Rectangle-4" fill="#DEEDF7" x="43.6590038" y="709.822394" width="29.0567005" height="69.0522334"></rect>
+            <rect id="Rectangle-4" fill="#DEEDF7" x="117.777778" y="708.81982" width="29.0567005" height="69.0522334"></rect>
+            <rect id="Rectangle-4" fill="#DEEDF7" x="191.896552" y="708.81982" width="29.0567005" height="69.0522334"></rect>
+            <polygon id="Rectangle-5" fill="#DEEDF7" points="108.68902 1.002574 127.543291 14.5960439 127.543291 70.0548074 98.48659 52.8598306"></polygon>
+            <rect id="Rectangle-2" fill="#95C4F3" x="57.8735632" y="154.396396" width="148.490756" height="211.603604"></rect>
+            <rect id="Rectangle-2" fill="#95C4F3" x="42.6436782" y="356.916345" width="177.995783" height="295.998185"></rect>
+            <polygon id="Rectangle-5" fill="#DEEDF7" points="83.2911947 42.1081081 127.168917 68.6215573 127.168917 90.1536498 70.0574713 84.5178957"></polygon>
+            <polygon id="Rectangle-5" fill="#DEEDF7" points="57.5547792 83.2136422 127.82324 90.2141645 127.82324 132.010214 43.6590038 132.010214"></polygon>
+            <polyline id="Rectangle-5" fill="#DEEDF7" points="155.923236 -7.10542736e-15 137.068966 13.5934699 137.068966 69.0522334 166.125666 51.8572566"></polyline>
+            <polyline id="Rectangle-5" fill="#DEEDF7" points="180.946688 42.1081081 137.068966 68.6215573 137.068966 90.1536498 194.180411 84.5178957"></polyline>
+            <polyline id="Rectangle-5" fill="#DEEDF7" points="207.337426 83.2136422 137.068966 90.2141645 137.068966 132.010214 221.233201 132.010214"></polyline>
+            <rect id="Rectangle-4" fill="#C2DBF4" x="126.915709" y="84.2162162" width="10.0935863" height="48.0455417"></rect>
+            <ellipse id="Oval-3" fill="#95C4F3" cx="131.789766" cy="108.277992" rx="20.1039423" ry="20.0514801"></ellipse>
+            <ellipse id="Oval-3" fill="#C2DBF4" cx="132.195732" cy="108.612184" rx="13.4026282" ry="13.3676534"></ellipse>
+        </g>
+    </g>
+</svg>

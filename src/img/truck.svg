@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="603px" height="303px" viewBox="0 0 603 303" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>truck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="truck">
+            <path d="M168,45.955 L371,45.955 L371,177.802576 L168,177.802576 L168,45.955 Z" id="Rectangle-19" fill="#C0F5E8"></path>
+            <path d="M0,29.29 L187,29.29 L187,270.104856 L0,270.104856 L0,29.29 Z" id="Rectangle-19" fill="#8EE9D4"></path>
+            <path d="M355,29.29 L473,29.29 L473,270.104856 L355,270.104856 L355,29.29 Z" id="Rectangle-19" fill="#8EE9D4"></path>
+            <path d="M187,29.29 L355,29.29 L355,58.58 L187,58.58 L187,29.29 Z" id="Rectangle-19" fill="#8EE9D4"></path>
+            <path d="M265,53 L278,53 L278,153.737279 L265,153.737279 L265,53 Z" id="Rectangle-19" fill="#8EE9D4"></path>
+            <path d="M171,153.116868 L374,153.116868 L374,270.276868 L171,270.276868 L171,153.116868 Z" id="Rectangle-19" fill="#8EE9D4"></path>
+            <polygon id="Rectangle-19" fill="#8EE9D4" points="463.265092 139.743791 538.781815 146.45 538.781815 271.591367 473 271.591367"></polygon>
+            <polygon id="Rectangle-19" fill="#8EE9D4" points="534.511719 176.264727 602.525391 179.53835 602.525391 271.422006 538.203498 271.422006"></polygon>
+            <ellipse id="Oval" fill="#40D5BB" cx="94" cy="270.68" rx="32" ry="32.32"></ellipse>
+            <ellipse id="Oval" fill="#40D5BB" cx="484" cy="269.67" rx="32" ry="32.32"></ellipse>
+            <polygon id="Triangle-7" fill="#8EE9D4" points="473 29.29 538.781815 146.45 473 146.45"></polygon>
+            <polygon id="Triangle-7" fill="#C0F5E8" points="473 58.58 516 135.164691 473 135.164691"></polygon>
+            <polygon id="Triangle-7" fill="#8EE9D4" points="526.483277 139.743791 602 179.53835 526.483277 179.53835"></polygon>
+            <path d="M187,146.45 L355,146.45 L355,163.115 L187,163.115 L187,146.45 Z" id="Rectangle-19" fill="#40D5BB"></path>
+            <path d="M36,0 L57,0 L57,29.29 L36,29.29 L36,0 Z" id="Rectangle-19" fill="#C0F5E8"></path>
+        </g>
+    </g>
+</svg>

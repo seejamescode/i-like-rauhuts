@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="296px" height="145px" viewBox="0 0 296 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>table</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="table">
+            <path d="M77.5479452,137.395105 L77.5479452,75.541958" id="Line" stroke="#C0F5E8" stroke-width="5" stroke-linecap="square"></path>
+            <path d="M221.493151,137.395105 L221.493151,75.541958" id="Line" stroke="#C0F5E8" stroke-width="5" stroke-linecap="square"></path>
+            <path d="M36.4931507,142.465035 L36.4931507,80.6118881" id="Line" stroke="#C0F5E8" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M261.534247,144.493007 L261.534247,82.6398601" id="Line" stroke="#C0F5E8" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M8.3828125,0 L285.122539,0 L295.940604,132.388549 L272.451306,125.048676 C272.451306,125.048676 263.397551,132.388549 246.843536,132.388549 C230.289521,132.388549 212.738121,125.048676 212.738121,125.048676 C212.738121,125.048676 196.403744,132.388549 179.697881,132.388549 C162.992018,132.388549 146.245826,125.048676 146.245826,125.048676 C146.245826,125.048676 125.001823,132.388549 110.584225,132.388549 C96.1666278,132.388549 82.557042,125.048676 82.557042,125.048676 C82.557042,125.048676 67.3829183,132.388549 53.7616652,132.388549 C40.1404121,132.388549 26.7481807,125.048676 26.7481807,125.048676 L0,132.388549 C0,132.388549 8.3828125,20.8604939 8.3828125,0 Z" id="Rectangle-19" fill="#40D5BB"></path>
+            <path d="M31.9315068,17.7447552 L24.8356164,111.031469" id="Line" stroke="#8EE9D4" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M261.534247,18.2517483 L269.643836,112.552448" id="Line" stroke="#8EE9D4" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M209.835616,19.2657343 L211.863014,113.566434" id="Line" stroke="#8EE9D4" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M145.465753,20.2797203 L145.465753,113.566434" id="Line" stroke="#8EE9D4" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M85.1506849,19.2657343 L83.1232877,114.58042" id="Line" stroke="#8EE9D4" stroke-width="3" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

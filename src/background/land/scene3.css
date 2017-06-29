@@ -1,0 +1,18 @@
+@keyframes smoke {
+  0% {
+    opacity: 0;
+    transform: scale(.25) translate(0%);
+  }
+  15% {
+    opacity: .75;
+    transform: scale(1) translate(0%);
+  }
+  75% {
+    opacity: .75;
+    transform: scale(1.25) translate(-30%, -80%);
+  }
+  75% {
+    opacity: 0;
+    transform: scale(2) translate(-30%, -80%);
+  }
+}

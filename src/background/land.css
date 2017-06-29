@@ -1,0 +1,18 @@
+.globe {
+  border-radius: 50%;
+  left: -25vw;
+  height: 150vw;
+  position: fixed;
+  top: 70vh;
+  width: 150vw;
+  z-index: 2;
+}
+
+@media all and (orientation: portrait) {
+  .globe {
+    left: -75vw;
+    height: 250vw;
+    top: 70vh;
+    width: 250vw;
+  }
+}

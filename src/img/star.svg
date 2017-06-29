@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="318px" height="328px" viewBox="0 0 318 328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star">
+            <polygon id="Star" fill="#95C4F3" points="159 228.852027 60.7799612 294.006005 94.1394032 183.019467 0.0766388216 112.300301 118.913947 108.860826 159 0 199.086053 108.860826 317.923361 112.300301 223.860597 183.019467 257.220039 294.006005"></polygon>
+            <polygon id="Triangle-3" fill="#DEEDF7" points="0.213716002 112.229191 159 161.374195 94.441104 183.45995"></polygon>
+            <polygon id="Triangle-3" fill="#DEEDF7" transform="translate(238.500000, 147.908549) scale(-1, 1) translate(-238.500000, -147.908549) " points="159 112.357148 318 161.518112 253.441104 183.45995"></polygon>
+            <polygon id="Triangle-3" fill="#DEEDF7" transform="translate(148.540293, 84.179621) rotate(72.000000) translate(-148.540293, -84.179621) " points="71.7129431 48.218915 225.367643 98.1443533 162.822881 120.140327"></polygon>
+            <polygon id="Triangle-3" fill="#DEEDF7" transform="translate(119.549641, 231.419808) rotate(-72.000000) translate(-119.549641, -231.419808) " points="40.7837771 194.677047 198.315505 247.30779 134.131092 268.16257"></polygon>
+            <polygon id="Triangle-3" fill="#DEEDF7" transform="translate(198.270295, 231.432552) scale(-1, 1) rotate(-72.000000) translate(-198.270295, -231.432552) " points="120.12483 194.532175 276.415761 247.639831 212.728953 268.33293"></polygon>
+            <polygon id="Rectangle-7" fill="#C2DBF4" points="60.7643312 294.117268 91.1464968 273.825826 91.1464968 305.507701 60.7643312 305.507701"></polygon>
+            <rect id="Rectangle-8" fill="#C2DBF4" x="39.4968153" y="304.36036" width="68.866242" height="22.6546547"></rect>
+            <polygon id="Rectangle-7" fill="#C2DBF4" transform="translate(242.044586, 289.666763) scale(-1, 1) translate(-242.044586, -289.666763) " points="226.853503 294.117268 257.235669 273.825826 257.235669 305.507701 226.853503 305.507701"></polygon>
+            <rect id="Rectangle-8" fill="#C2DBF4" transform="translate(245.082803, 316.672673) scale(-1, 1) translate(-245.082803, -316.672673) " x="210.649682" y="305.345345" width="68.866242" height="22.6546547"></rect>
+        </g>
+    </g>
+</svg>

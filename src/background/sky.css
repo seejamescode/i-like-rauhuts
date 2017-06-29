@@ -1,0 +1,25 @@
+.sky {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  position: fixed;
+  width: 100vw;
+  z-index: -1;
+}
+
+.sun {
+  background: #fed500;
+  border-radius: 50%;
+  box-shadow: 0px 0px 50px 50px #fed500;
+  height: 30vw;
+  left: calc(50% - 15vw);
+  position: absolute;
+  width: 30vw;
+}
+
+.land {
+  bottom: 0;
+  position: absolute;
+  min-width: 100vw;
+}

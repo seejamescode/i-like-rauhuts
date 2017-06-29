@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="639px" height="225px" viewBox="0 0 639 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>blimp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blimp">
+            <path d="M348.424656,193.107338 C519.443026,193.107338 638.5179,154.216661 638.5179,98.2142443 C638.5179,-22.7116422 471.800072,1.15590107 378.175544,6.10263603 C290.087675,10.7568367 0,63.5603637 0,119.56278 C0,175.565197 177.406287,193.107338 348.424656,193.107338 Z" id="Oval" fill="#C2DBF4"></path>
+            <polygon id="Rectangle-9" fill="#DEEDF7" points="270.154446 191.704036 403.736349 191.704036 403.736349 225 275.613934 225"></polygon>
+            <polygon id="Rectangle-9" fill="#DEEDF7" points="73.5377717 27.1688414 127.722412 20.134693 149.44568 43.3633106 73.5377717 66.5919283"></polygon>
+            <polygon id="Rectangle-9" fill="#95C4F3" transform="translate(109.149965, 110.966609) rotate(3.000000) translate(-109.149965, -110.966609) " points="71.1960105 104.635737 125.380651 101.885892 147.103919 110.966609 71.1960105 120.047327"></polygon>
+            <polygon id="Rectangle-9" fill="#DEEDF7" transform="translate(108.672426, 185.932609) scale(1, -1) rotate(7.000000) translate(-108.672426, -185.932609) " points="70.7184722 169.73814 124.903113 162.703992 146.626381 185.932609 70.7184722 209.161227"></polygon>
+            <rect id="Rectangle-10" fill="#95C4F3" x="352.895476" y="191.704036" width="50.8408736" height="18.161435"></rect>
+        </g>
+    </g>
+</svg>

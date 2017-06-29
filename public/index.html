@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#faad96">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/text.css">
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <!--
+      Notice the use of %PUBLIC_URL% in the tag above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Rauhut Wedding</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <div class="container">
+      <div class="blackFallback"></div>
+      <div class="text">
+        <div class="slide">
+          <p class="p sans">
+            On May 12th, 2017
+          </p>
+          <h1 class="h1">
+            Julia and James
+          </h1>
+          <p class="p sans">
+            are getting married
+          </p>
+        </div>
+        <div class="slide">
+          <p class="p sans">
+            At 6pm, please join us at the
+          </p>
+          <h2 class="h2">
+            Central Christian Church
+          </h2>
+          <p class="p sans">
+            1110 Guadalupe
+            <br />
+            Austin, TX
+          </p>
+        </div>
+        <div class="slide dark">
+          <p class="p sans">
+            Dinner will follow at the
+          </p>
+          <h2 class="h2">
+            Allan House
+          </h2>
+          <p class="p sans">
+            right behind the church
+          </p>
+        </div>
+        <div class="slide dark">
+          <p class="p sans">
+            Then we will
+          </p>
+          <h2 class="h2">
+            dance the
+            <br />
+            night away!
+          </h2>
+        </div>
+        <div class="slide dark last">
+          <h2 class="h2">
+            We hope you
+            <br />
+            make it!
+          </h2>
+          <div class="p sans information">
+            <h3><a class="a" href="https://goo.gl/forms/I54QEWfTvPsUWkc13" target="_blank" rel="external">RSVP Form</a></h3>
+            <h3 class="noMarginBottom">Registry:</h3>
+            Please support <a class="a" href="https://www.compassion.com/catalog/view-by-price.htm" target="_blank" rel="external">Compassion International (Global)</a> or <a class="a" href="https://www.amazon.com/gp/registry/wishlist/1HG7BX5IQEU8I" target="_blank" rel="external">Street Youth Ministry (Local)</a> for us.
+            <h3><a class="a" href="https://www.google.com/maps/search/Hotels/@30.2746159,-97.7532149,15z/data=!4m11!2m10!3m6!1sHotels!2sCentral+Christian+Church,+1110+Guadalupe,+Austin,+TX+78701!3s0x8644b50b207f5fb1:0x520c303de6a0605f!4m2!1d-97.7444601!2d30.2746162!5m2!5m1!1s2017-05-12" target="_blank" rel="external">Nearby Hotels</a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start`.
+      To create a production bundle, use `npm run build`.
+    -->
+    <script>
+      if (
+        'serviceWorker' in navigator &&
+        window.location.hostname !== 'localhost'
+      ) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/service-worker.js');
+        });
+      }
+    </script>
+    <script>
+      if (window.location.hostname !== 'localhost') {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-43808769-8', 'auto');
+        ga('send', 'pageview');
+      }
+    </script>
+  </body>
+</html>

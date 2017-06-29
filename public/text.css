@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Sacramento');
+
+.text {
+  color: #1A1314;
+  font-family: wildYouthWoff2, wildYouthWoff, cursive;
+  max-width: 480px;
+}
+
+.a {
+  color: inherit;
+}
+
+.h1, .h2 {
+  font-family: 'Sacramento', cursive;
+}
+
+.h1 {
+  font-size: 2.827rem;
+  line-height: 2;
+}
+
+.h2 {
+  font-size: 1.999rem;
+  line-height: 1.5;
+}
+
+.p {
+  font-size: 14px;
+  line-height: 2;
+}
+
+.h1, .h2, .p {
+  margin: 0;
+  text-align: center;
+}
+
+@media (min-width: 600px) {
+  .h1 {
+    font-size: 3.998rem;
+  }
+
+  .h2 {
+    font-size: 2.827rem;
+  }
+
+  .p {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 900px) {
+  .h1 {
+    font-size: 4.9975rem;
+  }
+
+  .h2 {
+    font-size: 3.53375rem;
+  }
+
+  .p {
+    font-size: 20px;
+  }
+
+  .text {
+    max-width: 700px;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.blackFallback {
+  background: black;
+  bottom: 0;
+  height: 300vh;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 2rem;
+  position: absolute;
+  top: 0;
+  width: calc(100% - 4rem);
+}
+
+.sans {
+  font-family: 'Quicksand', sans-serif;
+  text-transform: uppercase;
+}
+
+.slide {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 70vh;
+  margin-bottom: 30vh;
+}
+
+.dark {
+  color: #E9E0E0;
+}
+
+.last {
+  height: 70vh;
+  margin-bottom: 15vh;
+}
+
+.information {
+  max-width: 19rem;
+  text-transform: none;
+}
+
+@media (min-width: 600px) {
+  .information {
+    max-width: 22rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .information {
+    max-width: 27rem;
+  }
+}
+
+.noMarginBottom {
+  margin-bottom: 0;
+}

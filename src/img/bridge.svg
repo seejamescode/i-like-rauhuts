@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="536px" height="255px" viewBox="0 0 536 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>bridge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bridge">
+            <path d="M3.10193863,196.766282 C3.10193863,196.766282 158.054981,-3.86388684 264.750305,3.22945425 C371.445629,10.3227953 423.490907,138.626905 423.490907,138.626905" id="Path-2" stroke="#DEEDF7" stroke-width="12"></path>
+            <polygon id="Rectangle" fill="#C2DBF4" points="1.98886827 145.061729 531.027829 83.9880952 531.027829 101.926425 1.98886827 190.238095"></polygon>
+            <polygon id="Rectangle" fill="#95C4F3" transform="translate(267.823050, 143.938867) rotate(-7.000000) translate(-267.823050, -143.938867) " points="-0.167577159 145.9071 535.813677 130.784105 535.813677 135.225977 -0.167577159 157.093628"></polygon>
+            <rect id="Rectangle-6" fill="#C2DBF4" transform="translate(152.667487, 89.129374) rotate(3.000000) translate(-152.667487, -89.129374) " x="104.321373" y="84.8380259" width="96.6922287" height="8.5826964"></rect>
+            <rect id="Rectangle-6" fill="#C2DBF4" transform="translate(210.840388, 39.841223) rotate(-1.000000) translate(-210.840388, -39.841223) " x="161.095016" y="36.2995562" width="99.4907449" height="7.08333333"></rect>
+            <rect id="Rectangle-6" fill="#C2DBF4" transform="translate(272.433468, 7.967244) rotate(-1.000000) translate(-272.433468, -7.967244) " x="222.634929" y="4.93152982" width="99.5970788" height="6.07142857"></rect>
+            <rect id="Rectangle-6" fill="#C2DBF4" transform="translate(357.508963, 13.486815) rotate(-1.000000) translate(-357.508963, -13.486815) " x="310.299649" y="10.9570534" width="94.4186287" height="5.05952381"></rect>
+            <rect id="Rectangle-6" fill="#C2DBF4" transform="translate(397.277651, 39.290464) rotate(-1.000000) translate(-397.277651, -39.290464) " x="350.068337" y="37.2666542" width="94.4186287" height="4.04761905"></rect>
+            <rect id="Rectangle-6" fill="#C2DBF4" transform="translate(423.116184, 72.071325) rotate(-1.000000) translate(-423.116184, -72.071325) " x="381.882462" y="70.5534678" width="82.4674447" height="3.03571429"></rect>
+            <path d="M65.6326531,254.67304 C65.6326531,254.67304 248.914111,-6.95166526 355.609435,0.141675825 C462.304759,7.23501691 502.051204,151.380223 502.051204,151.380223" id="Path-2" stroke="#95C4F3" stroke-width="12"></path>
+        </g>
+    </g>
+</svg>
