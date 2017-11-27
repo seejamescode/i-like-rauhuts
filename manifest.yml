@@ -1,6 +1,0 @@
----
-applications:
-- name: i-like-rauhuts
-  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
-  command: npm run bluemix
-  memory: 128MB

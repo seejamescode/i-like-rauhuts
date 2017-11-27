@@ -1,4 +1,4 @@
-# I Like Rauhuts
+# [I Like Rauhuts](https://i-like-rauhuts.now.sh/)
 
 This was a wedding website I made for the love of my life.
 
@@ -10,12 +10,6 @@ It is also a [progressive web app](https://developers.google.com/web/progressive
 
 2. `yarn install` or `npm install`
 3. `yarn start` or `npm start`
-
-## To Deploy to Bluemix
-
-1. Edit the `./manifest.yml` with a unique name for your Bluemix app.
-2. Figure out how to use Bluemix with the Cloud Foundry CLI, [yeah](https://console.bluemix.net/docs/cli/index.html#cli)
-2. `cf push`
 
 ## Open-Source License
 
