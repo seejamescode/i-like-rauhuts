@@ -1,0 +1,18 @@
+{
+  "name": "i-like-rauhuts",
+  "alias": ["i-like-rauhuts"],
+  "version": 2,
+  "builds": [
+    { "src": "build/index.js", "use": "@now/node" },
+    {
+      "src": "build/**/*.*",
+      "use": "@now/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/build/$1"
+    }
+  ]
+}
